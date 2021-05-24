@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m ""
+git status
+git remote add origin <SSH>
+git remote -v
+git push origin
+
+
+solution to errors
+
+git push -f origin master
